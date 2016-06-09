@@ -30,7 +30,11 @@
         //nothing implemented here
     }
     
+    int i = 10 ;
     
+    int j = 29 ;
+    
+    j = 35 ;
     
     
 }
