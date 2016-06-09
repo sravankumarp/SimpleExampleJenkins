@@ -24,7 +24,7 @@
     
     
 #warning a dead condition here
-    if(3 % 2 == 4) {
+    if(3 % 2 != 4) {
         UIView *view = [[UIView alloc] init] ;
     } else {
         //nothing implemented here
