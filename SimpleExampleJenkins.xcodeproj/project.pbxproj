@@ -505,6 +505,7 @@
 				A098AE3E1D05AD2A00FBFC31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A098AE3F1D05AD2A00FBFC31 /* Build configuration list for PBXNativeTarget "SimpleExampleJenkinsTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				A098AE411D05AD2A00FBFC31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A098AE421D05AD2A00FBFC31 /* Build configuration list for PBXNativeTarget "SimpleExampleJenkinsUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				A098AE441D05AD2A00FBFC31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
